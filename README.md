@@ -1,2 +1,2 @@
 # Image-Collection
-automated image collection using OpenCV
+A simple script used to make your machine learning process easier by automating image collection using your webcam.
